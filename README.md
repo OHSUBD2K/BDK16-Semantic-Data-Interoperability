@@ -52,7 +52,7 @@ Unit 3 Resources: BDK16-3\_resources.pdf
 
 ### Module Supplemental Materials
 
-Exercises: Please download the exercises from http://skynet.ohsu.edu/bd2k/asset/BDK16/BDK16_exercises.zip (1 GB)
+Exercises: Please download the exercises from https://dmice.ohsu.edu/bd2k/asset/BDK16/BDK16_exercises.zip (1 GB)
 
 References & Resources: BDK16\_Ref.pdf
 
