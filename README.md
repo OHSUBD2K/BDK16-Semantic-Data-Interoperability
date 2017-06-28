@@ -3,7 +3,6 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
 
 ## Module Number: BDK16
 
@@ -30,7 +29,7 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK16-1.pptx
 
-Unit 1 Audio: BDK16-1.mp3
+Unit 1 Audio: BDK16-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK16-1\_resources.pdf
 
@@ -38,7 +37,7 @@ Unit 1 Resources: BDK16-1\_resources.pdf
 
 Unit 2 Slides: BDK16-2.pptx
 
-Unit 2 Audio: BDK16-2.mp3
+Unit 2 Audio: BDK16-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK16-2\_resources.pdf
 
@@ -46,13 +45,13 @@ Unit 2 Resources: BDK16-2\_resources.pdf
 
 Unit 3 Slides: BDK16-3.pptx
 
-Unit 3 Audio: BDK16-3.mp3
+Unit 3 Audio: BDK16-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resources: BDK16-3\_resources.pdf
 
 ### Module Supplemental Materials
 
-Exercises: Please download the exercises from http://skynet.ohsu.edu/bd2k/asset/BDK16/BDK16_exercises.zip (1 GB)
+Exercises: Please download the exercises from http://dmice.ohsu.edu/bd2k/asset/BDK16/BDK16_exercises.zip (1 GB)
 
 References & Resources: BDK16\_Ref.pdf
 
