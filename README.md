@@ -33,6 +33,8 @@ Unit 1 Audio: BDK16-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK16-1\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK16-1/presentation_html5.html)
+
 ### Unit 2: Terminology Standards - Part 2
 
 Unit 2 Slides: BDK16-2.pptx
@@ -41,6 +43,8 @@ Unit 2 Audio: BDK16-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK16-2\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK16-2/presentation_html5.html)
+
 ### Unit 3: Terminology Standards - Part 3
 
 Unit 3 Slides: BDK16-3.pptx
@@ -48,6 +52,8 @@ Unit 3 Slides: BDK16-3.pptx
 Unit 3 Audio: BDK16-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resources: BDK16-3\_resources.pdf
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK16-3/presentation_html5.html)
 
 ### Module Supplemental Materials
 
@@ -71,6 +77,6 @@ As a result, the materials provided here have limited imagery as we intend for t
 
 **Where do I find images?** There are several sources that might be available to you.  Depending on how you plan on using the BD2K modules, you may have more flexibility to locate images.  Once you have identify the license that you wish to use, you can search with those restrictions in mind.
 
-- Google Images:  Head to Google Advanced Image Search (http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
+- Google Images:  Head to [Google Advanced Image Search](http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
 - Flickr Creative Commons:  Many users of Flickr have elected to allow their photographs to be reused.  To browse or search for CC licensed images, head to https://www.flickr.com/creativecommons/  
 - Institutional licenses: depending on your home institution, your library may subscribe to an image database that may be useful.  Please consult with your librarian to see if such assets are available to you.
